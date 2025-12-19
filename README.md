@@ -19,3 +19,17 @@ Use Cases:
 - Fare estimation
 - Transportation analytics
 - Data science learning project
+
+## 📊 Project Screenshots
+
+### 🔹 Correlation Analysis
+![Correlation Matrix](images/correlation.png)
+
+### 🔹 Simple Linear Regression Output
+![Simple Linear Regression](images/linear_regression.png)
+
+### 🔹 Multiple Linear Regression Output
+![Multiple Linear Regression](images/multiple_regression.png)
+
+### 🔹 Visualization & Residual Plots
+![Plots](images/residual_plot.png)
