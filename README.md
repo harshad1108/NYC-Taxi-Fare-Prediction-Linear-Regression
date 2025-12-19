@@ -26,7 +26,7 @@ Use Cases:
 ![Correlation Matrix](images/correlation.png)
 
 ### 🔹 Simple Linear Regression Output
-![Simple Linear Regression](images/linear_regression.png)
+![Simple Linear Regression](images/simple_regression.png)
 
 ### 🔹 Multiple Linear Regression Output
 ![Multiple Linear Regression](images/multiple_regression.png)
